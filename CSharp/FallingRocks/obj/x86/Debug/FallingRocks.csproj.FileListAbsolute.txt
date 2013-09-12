@@ -1,0 +1,5 @@
+C:\Users\Ste\Documents\GitHub\TelerikAkademy\Programming\CSharpPartOne\FallingRocks\bin\Debug\FallingRocks.exe
+C:\Users\Ste\Documents\GitHub\TelerikAkademy\Programming\CSharpPartOne\FallingRocks\bin\Debug\FallingRocks.pdb
+C:\Users\Ste\Documents\GitHub\TelerikAkademy\Programming\CSharpPartOne\FallingRocks\obj\x86\Debug\FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\Ste\Documents\GitHub\TelerikAkademy\Programming\CSharpPartOne\FallingRocks\obj\x86\Debug\FallingRocks.exe
+C:\Users\Ste\Documents\GitHub\TelerikAkademy\Programming\CSharpPartOne\FallingRocks\obj\x86\Debug\FallingRocks.pdb

@@ -1,0 +1,10 @@
+D:\Projects\StarShip\StarshipFight\bin\Debug\StarshipFight.exe.config
+D:\Projects\StarShip\StarshipFight\bin\Debug\StarshipFight.exe.manifest
+D:\Projects\StarShip\StarshipFight\bin\Debug\StarshipFight.application
+D:\Projects\StarShip\StarshipFight\bin\Debug\StarshipFight.exe
+D:\Projects\StarShip\StarshipFight\bin\Debug\StarshipFight.pdb
+D:\Projects\StarShip\StarshipFight\obj\Debug\StarshipFight.csprojResolveAssemblyReference.cache
+D:\Projects\StarShip\StarshipFight\obj\Debug\StarshipFight.exe.manifest
+D:\Projects\StarShip\StarshipFight\obj\Debug\StarshipFight.application
+D:\Projects\StarShip\StarshipFight\obj\Debug\StarshipFight.exe
+D:\Projects\StarShip\StarshipFight\obj\Debug\StarshipFight.pdb
